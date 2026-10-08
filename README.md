@@ -125,3 +125,9 @@ It intentionally excludes:
 - Client-confidential implementation details
 
 The purpose of this repository is to demonstrate **engineering reasoning and system architecture**, not to reproduce the proprietary application.
+
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Engineering Decisions](docs/engineering-decisions.md)
+- [Security & Public Disclosure Boundary](docs/security-and-boundaries.md)
